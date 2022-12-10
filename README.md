@@ -2,9 +2,9 @@
 
 - ✨ I’m a full-stack developer with Java backend and Vue.js frontend, and also familar with Python, C++, C#, Lua, PHP, JavaScript.
 - 🌱 I’m currently learning GoLand and React.
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his.
 - 🎁 I'm also an open-source contributor.
-- 😁 Let us made the world become better by code!
+- 😁 Let us make the world become better and better by code!
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samho2008)](https://github.com/samho2008)
 
