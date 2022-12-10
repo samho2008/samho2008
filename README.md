@@ -8,6 +8,11 @@
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samho2008)](https://github.com/samho2008)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zealdocs&repo=zeal)](https://github.com/zealdocs/zeal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuejs&repo=vuepress)](https://github.com/vuejs/vuepress)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=go-gitea&repo=gitea)](https://github.com/go-gitea/gitea)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=nacos)](https://github.com/alibaba/nacos)
+
 <!--
 **samho2008/samho2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
