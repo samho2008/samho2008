@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ✨ I’m a full-stack developer with Java backend and Vue.js frontend, and also familar with Python, C++, C#, Lua, PHP, JavaScript.
+- 🌱 I’m currently learning GoLand and React.
+- 😄 Pronouns: he/him/his
+- 🎁 I'm also an open-source contributor.
+- 😁Let us made the world become better by code!
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samho2008)](https://github.com/samho2008)
+
 <!--
 **samho2008/samho2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
