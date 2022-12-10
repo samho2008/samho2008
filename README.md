@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GoLand and React.
 - 😄 Pronouns: he/him/his
 - 🎁 I'm also an open-source contributor.
-- 😁Let us made the world become better by code!
+- 😁 Let us made the world become better by code!
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samho2008)](https://github.com/samho2008)
 
