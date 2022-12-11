@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😁 Let us make the world become better and better by code!
+- 😁 Use code to change the world!
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samho2008)](https://github.com/samho2008)
 
